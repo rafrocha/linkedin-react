@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Linkedin-react
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A LinkedIn clone SPA using React, Styled Components and hosted iwth Firebase.
 
 ## Available Scripts
 
